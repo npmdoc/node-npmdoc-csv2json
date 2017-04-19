@@ -1,4 +1,7 @@
-# api documentation for  [csv2json (v1.3.0)](https://github.com/julien-f/csv2json)  [![npm package](https://img.shields.io/npm/v/npmdoc-csv2json.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-csv2json) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-csv2json.svg)](https://travis-ci.org/npmdoc/node-npmdoc-csv2json)
+# npmdoc-csv2json
+
+#### api documentation for  [csv2json (v1.3.0)](https://github.com/julien-f/csv2json)  [![npm package](https://img.shields.io/npm/v/npmdoc-csv2json.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-csv2json) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-csv2json.svg)](https://travis-ci.org/npmdoc/node-npmdoc-csv2json)
+
 #### Stream and CLI to convert CSV to JSON
 
 [![NPM](https://nodei.co/npm/csv2json.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/csv2json)
